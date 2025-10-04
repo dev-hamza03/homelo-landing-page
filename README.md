@@ -26,7 +26,7 @@ This project was built using **HTML** and **CSS**, showcasing layout and positio
 ---
 
 ## 📁 Project Structure
-
+```
 homelo-landing-page/
 │
 ├── index.html                  # Main HTML file
@@ -35,6 +35,7 @@ homelo-landing-page/
 └── assets/                     # Folder containing images
     ├── modern-luxury-villa-architectural-design.png
     └── homelo-screenshot.png
+```
 
 
 ---
